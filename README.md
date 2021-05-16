@@ -1,4 +1,4 @@
-# consumindo_api_com_flutter
+# Grupo 5 - CashbackApi
 
 A new Flutter project.
 
